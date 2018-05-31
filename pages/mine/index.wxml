@@ -3,6 +3,7 @@
 
 <view>
   <text class="beizhu">大家好，我是Tracy，欢迎来到Tracy 闲置，欢迎挑选我的闲置，买走闲置还有礼物送哦，然后邮费需要麻烦亲自己支付，如有看上的闲置可联系本人微信：Tracy271</text>
+  <text class="test"></text>
 </view>
 
 <view calss="xianzhi_0">
