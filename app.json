@@ -6,6 +6,7 @@
   ],
   "window":{
     "backgroundTextStyle":"light",
+<<<<<<< HEAD
     "navigationBarBackgroundColor": "#fb7000",
     "navigationBarTitleText": "Tracy闲置",
     "navigationBarTextStyle":"white",
@@ -36,5 +37,10 @@
     "backgroundColor":"#ffffff",
     "borderStyle":"",
     "position":""
+=======
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Tracy闲置",
+    "navigationBarTextStyle":"black"
+>>>>>>> c3b9dd5a39a7fe82262af3b9c2235d199fca7cc6
   }
 }
