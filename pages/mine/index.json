@@ -1,0 +1,10 @@
+{
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fb7000",
+    "navigationBarTitleText": " 我的",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#ffffff",
+    "enablePullDownRefresh": false,
+    "disableScroll": false,
+    "onReachBottomDistance":50
+}

@@ -1,12 +1,40 @@
 {
   "pages":[
     "pages/index/index",
+    "pages/mine/index",
     "pages/logs/logs"
   ],
   "window":{
     "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle":"black"
+    "navigationBarBackgroundColor": "#fb7000",
+    "navigationBarTitleText": "Tracy闲置",
+    "navigationBarTextStyle":"white",
+    "backgroundColor":"#ffffff",
+    "enablePullDownRefresh":false,
+    "navigationStyle":"default",
+    "backgroundColorTop":"#ffffff",
+    "backgroundColorBottom":"#ffffff",
+    "onReachBottomDistance":50
+  },
+  "tabBar":{
+    "list":[
+      {
+        "pagePath":"pages/index/index",
+        "text":"首页",
+        "iconPath":"",
+        "selectedlconPath":""
+      },
+      {
+        "pagePath":"pages/mine/index",
+        "text": "我的",
+        "iconPath": "",
+        "selectedlconPath": ""
+      }
+    ],
+    "color":"#cccccc",
+    "selectedColor":"#fb7000",
+    "backgroundColor":"#ffffff",
+    "borderStyle":"",
+    "position":""
   }
 }
