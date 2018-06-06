@@ -12,5 +12,3 @@ Page({
     console.log('image发生erro事件,携带值为', e.detail.errMsg)
   }
 })
-
-

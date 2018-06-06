@@ -131,6 +131,6 @@
     <text class="user-motto">{{motto}}</text>
   </view>
 
-<button bindtap="settemp2"> 购买 </button>
+<button bindtap="backtouppage"> 返回上一页 </button>
 
 </view>

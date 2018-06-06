@@ -36,6 +36,7 @@ var appobject={
   globalData: {
     userInfo: null
   }
+
 }
 
 

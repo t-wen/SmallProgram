@@ -2,7 +2,8 @@
   "pages":[
     "pages/index/index",
     "pages/mine/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/shoppinglist/index"
   ],
   "window":{
     "backgroundTextStyle":"light",
@@ -21,13 +22,13 @@
       {
         "pagePath":"pages/index/index",
         "text":"首页",
-        "iconPath":"",
+        
         "selectedlconPath":""
       },
       {
         "pagePath":"pages/mine/index",
         "text": "我的",
-        "iconPath": "",
+        
         "selectedlconPath": ""
       }
     ],
