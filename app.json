@@ -3,7 +3,8 @@
     "pages/index/index",
     "pages/mine/index",
     "pages/logs/logs",
-    "pages/shoppinglist/index"
+    "pages/shoppinglist/index",
+    "pages/xianzhixuzhi/index"
   ],
   "window":{
     "backgroundTextStyle":"light",

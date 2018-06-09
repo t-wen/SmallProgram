@@ -1,17 +1,10 @@
 <!--index.wxml-->
 <view class="container">
-<view>
-  <text class="wode_title"> 闲置须知 </text>
-</view>
-
-<view class="abcd">
-  <text class="beizhu123">Welcome to Tracy 闲置商店，欢迎挑选我的闲置，本商店主要为了提倡环保，让闲置产生价值，物尽其用。</text>
-</view>
-
-<!--底部文字-->
-  <view class="usermotto">
-    <text class="xianzhi_title123">祝您生活愉快！</text>
-    <text>\n</text>
-    <text class="user-motto">{{motto}}</text>
+  <view class="userinfo">
+    <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
+    <block wx:else>
+      <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
+      <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+    </block>
   </view>
 </view>
