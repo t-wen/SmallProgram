@@ -11,27 +11,34 @@
     <view class="xianzhi_bd">
       <view class="section section_gap">
         <view class="section_ctn">
-          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="scaleToFill" src="../../PrimaryDraft/20180530_01_clothes_shirt_white_ball_LongSleeve_front.jpg"></image>
+          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;"mode="aspectFill" src="../../PrimaryDraft/20180530_01_clothes_shirt_white_ball_LongSleeve_front.jpg"></image>
+          <text>\n</text>
+          <text class="xianzhi_sm">白色民族风衬衫front2018053001</text>
+          <button class='btn' bindtap='settemp1'> 购买 </button>
         </view>
       </view>
     </view>
     
     <view class="xianzhi_sm">
-      <text class="xianzhi_sm">1</text>
+      <text>\n</text>
     </view>
+    
   </view>
 
     <view calss="xianzhi_1">
     <view class="xianzhi_bd">
       <view class="section section_gap">
         <view class="section_ctn">
-          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="scaleToFill" src="../../PrimaryDraft/20180530_01_clothes_shirt_white_ball_LongSleeve_back.jpg"></image>
+          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="aspectFill" src="../../PrimaryDraft/20180530_01_clothes_shirt_white_ball_LongSleeve_back.jpg"></image>
+        <text>\n</text>
+        <text class="xianzhi_sm">白色民族风衬衫back2018053001</text>
+        <button class='btn' bindtap='settemp1'> 购买 </button>
         </view>
       </view>
     </view>
 
-    <view class="xianzhi_sm">
-      <text class="xianzhi_sm">2</text>
+     <view class="xianzhi_sm">
+      <text>\n</text>
     </view>
   </view>
 
@@ -41,13 +48,16 @@
     <view class="xianzhi_bd">
       <view class="section section_gap">
         <view class="section_ctn">
-          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="scaleToFill" src="../../PrimaryDraft/20180530_01_clothes_shirt_blue_HollowOut_LongSleeve_front.jpg"></image>
+          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="aspectFill" src="../../PrimaryDraft/20180530_01_clothes_shirt_blue_HollowOut_LongSleeve_front.jpg"></image>
+        <text>\n</text>
+        <text class="xianzhi_sm">蓝色镂空袖衬衫front2018053001</text>
+        <button class='btn' bindtap='settemp1'> 购买 </button>
         </view>
       </view>
     </view>
 
     <view class="xianzhi_sm">
-      <text class="xianzhi_sm">3</text>
+      <text>\n</text>
     </view>
   </view>
 
@@ -55,13 +65,16 @@
     <view class="xianzhi_bd">
       <view class="section section_gap">
         <view class="section_ctn">
-          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="scaleToFill" src="../../PrimaryDraft/20180530_01_clothes_shirt_blue_HollowOut_LongSleeve_back.jpg"></image>
+          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="aspectFill" src="../../PrimaryDraft/20180530_01_clothes_shirt_blue_HollowOut_LongSleeve_back.jpg"></image>
+          <text>\n</text>
+          <text class="xianzhi_sm">蓝色镂空袖衬衫back2018053001</text>
+          <button class='btn' bindtap='settemp1'> 购买 </button>
         </view>
       </view>
     </view>
     
     <view class="xianzhi_sm">
-      <text class="xianzhi_sm">4</text>
+      <text>\n</text>
     </view>
   </view>
 
@@ -71,13 +84,16 @@
     <view class="xianzhi_bd">
       <view class="section section_gap">
         <view class="section_ctn">
-          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="scaleToFill" src="../../PrimaryDraft/20180530_01_clothes_shirt_gray_hat_LongSleeve_front.jpg"></image>
+          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="aspectFill" src="../../PrimaryDraft/20180530_01_clothes_shirt_gray_hat_LongSleeve_front.jpg"></image>
+          <text>\n</text>
+          <text class="xianzhi_sm">灰色卫衣front2018053001</text>
+          <button class='btn' bindtap='settemp1'> 购买 </button>
         </view>
       </view>
     </view>
 
     <view class="xianzhi_sm">
-      <text class="xianzhi_sm">5</text>
+      <text>\n</text>
     </view>
   </view>
 
@@ -85,31 +101,34 @@
     <view class="xianzhi_bd">
       <view class="section section_gap">
         <view class="section_ctn">
-          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="scaleToFill" src="../../PrimaryDraft/20180530_01_clothes_shirt_gray_hat_LongSleeve_back.jpg"></image>
+          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="aspectFill" src="../../PrimaryDraft/20180530_01_clothes_shirt_gray_hat_LongSleeve_back.jpg"></image>
+          <text>\n</text>
+          <text class="xianzhi_sm">灰色卫衣back2018053001</text>
+          <button class='btn' bindtap='settemp1'> 购买 </button>
         </view>
       </view>
     </view>
 
     <view class="xianzhi_sm">
-      <text class="xianzhi_sm">6</text>
+      <text>\n</text>
     </view>
   </view>
 
 
    <view calss="xianzhi_6">
-    <view class="xianzhi_hd">
-      <text class="xianzhi_title">灰色卫衣</text>
-    </view>
     <view class="xianzhi_bd">
       <view class="section section_gap">
         <view class="section_ctn">
-          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="scaleToFill" src="../../PrimaryDraft/20180530_01_clothes_shirt_blue_hole_Trousers_front.jpg"></image>
+          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="aspectFill" src="../../PrimaryDraft/20180530_01_clothes_shirt_blue_hole_Trousers_front.jpg"></image>
+          <text>\n</text>
+          <text class="xianzhi_sm">蓝色牛仔裤front2018053001</text>
+          <button class='btn' bindtap='settemp1'> 购买 </button>
         </view>
       </view>
     </view>
 
     <view class="xianzhi_sm">
-      <text class="xianzhi_sm">7</text>
+      <text>\n</text>
     </view>
   </view>
 
@@ -117,20 +136,21 @@
     <view class="xianzhi_bd">
       <view class="section section_gap">
         <view class="section_ctn">
-          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="scaleToFill" src="../../PrimaryDraft/20180530_01_clothes_shirt_blue_hole_Trousers_back.jpg"></image>
+          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="aspectFills" src="../../PrimaryDraft/20180530_01_clothes_shirt_blue_hole_Trousers_back.jpg"></image>
+          <text>\n</text>
+          <text class="xianzhi_sm">蓝色牛仔裤back2018053001</text>
+          <button class='btn' bindtap='settemp1'> 购买 </button>       
         </view>
       </view>
     </view>
 
     <view class="xianzhi_sm">
-      <text class="xianzhi_sm">8</text>
+      <text>\n</text>
     </view>
   </view>
 <!--底部文字-->
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
   </view>
-
-<button bindtap="settemp2"> 购买 </button>
 
 </view>

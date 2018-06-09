@@ -1,136 +1,33 @@
 <!--index.wxml-->
 <view class="container">
 
-<view>
-  <text class="beizhu">Welcome to tracy闲置!</text>
+<view class="aabb">
+  <text class="beizhu2">大家好，我是Tracy，欢迎来到Tracy 闲置，欢迎挑选我的闲置，买走闲置还有礼物送哦，然后邮费需要麻烦亲自己支付，由于小程序还未完善，如有看上的闲置可联系本人微信：Tracy271</text>
+  <text class="test"></text>
 </view>
 
+<view calss="xianzhi_0">
+    <view class="xianzhi_bd">
+      <view class="section section_gap">
+        <view class="section_ctn">
+          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="scaleToFill" src="../../PrimaryDraft/WechatIMG21.jpeg"></image>
+        </view>
+      </view>
+    </view>
+  </view>
+
   <!--添加自定义图片_正式区域-->
-  <view calss="xianzhi_0">
-
-    <view class="xianzhi_bd">
-      <view class="section section_gap">
-        <view class="section_ctn">
-          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="scaleToFill" src="../../PrimaryDraft/20180530_01_clothes_shirt_white_ball_LongSleeve_front.jpg"></image>
-        </view>
-      </view>
-    </view>
-    
-    <view class="xianzhi_sm">
-      <text class="xianzhi_sm">1</text>
-    </view>
-  </view>
-
-    <view calss="xianzhi_1">
-    <view class="xianzhi_bd">
-      <view class="section section_gap">
-        <view class="section_ctn">
-          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="scaleToFill" src="../../PrimaryDraft/20180530_01_clothes_shirt_white_ball_LongSleeve_back.jpg"></image>
-        </view>
-      </view>
-    </view>
-
-    <view class="xianzhi_sm">
-      <text class="xianzhi_sm">2</text>
-    </view>
-  </view>
-
-
-  <view calss="xianzhi_2">
-    
-    <view class="xianzhi_bd">
-      <view class="section section_gap">
-        <view class="section_ctn">
-          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="scaleToFill" src="../../PrimaryDraft/20180530_01_clothes_shirt_blue_HollowOut_LongSleeve_front.jpg"></image>
-        </view>
-      </view>
-    </view>
-
-    <view class="xianzhi_sm">
-      <text class="xianzhi_sm">3</text>
-    </view>
-  </view>
-
-    <view calss="xianzhi_3">
-    <view class="xianzhi_bd">
-      <view class="section section_gap">
-        <view class="section_ctn">
-          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="scaleToFill" src="../../PrimaryDraft/20180530_01_clothes_shirt_blue_HollowOut_LongSleeve_back.jpg"></image>
-        </view>
-      </view>
-    </view>
-    
-    <view class="xianzhi_sm">
-      <text class="xianzhi_sm">4</text>
-    </view>
-  </view>
-
-
-   <view calss="xianzhi_4">
-   
-    <view class="xianzhi_bd">
-      <view class="section section_gap">
-        <view class="section_ctn">
-          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="scaleToFill" src="../../PrimaryDraft/20180530_01_clothes_shirt_gray_hat_LongSleeve_front.jpg"></image>
-        </view>
-      </view>
-    </view>
-
-    <view class="xianzhi_sm">
-      <text class="xianzhi_sm">5</text>
-    </view>
-  </view>
-
-    <view calss="xianzhi_5">
-    <view class="xianzhi_bd">
-      <view class="section section_gap">
-        <view class="section_ctn">
-          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="scaleToFill" src="../../PrimaryDraft/20180530_01_clothes_shirt_gray_hat_LongSleeve_back.jpg"></image>
-        </view>
-      </view>
-    </view>
-
-    <view class="xianzhi_sm">
-      <text class="xianzhi_sm">6</text>
-    </view>
-  </view>
-
-
-   <view calss="xianzhi_6">
+  <view calss="xianzhi33">
     <view class="xianzhi_hd">
-      <text class="xianzhi_title">灰色卫衣</text>
-    </view>
-    <view class="xianzhi_bd">
-      <view class="section section_gap">
-        <view class="section_ctn">
-          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="scaleToFill" src="../../PrimaryDraft/20180530_01_clothes_shirt_blue_hole_Trousers_front.jpg"></image>
-        </view>
-      </view>
-    </view>
-
-    <view class="xianzhi_sm">
-      <text class="xianzhi_sm">7</text>
+      <text class="xianzhi_title2">感谢您为支持环保出一份力，祝您生活愉快！</text>
     </view>
   </view>
 
-    <view calss="xianzhi_7">
-    <view class="xianzhi_bd">
-      <view class="section section_gap">
-        <view class="section_ctn">
-          <image style="width: 200px; height: 200px; backgrounp-color: #eeeeee;" mode="scaleToFill" src="../../PrimaryDraft/20180530_01_clothes_shirt_blue_hole_Trousers_back.jpg"></image>
-        </view>
-      </view>
-    </view>
-
-    <view class="xianzhi_sm">
-      <text class="xianzhi_sm">8</text>
-    </view>
-  </view>
 <!--底部文字-->
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
   </view>
 
-<button bindtap="backtouppage"> 返回上一页 </button>
+<button class='btn' bindtap='backtouppage'> 返回上一页 </button>
 
 </view>

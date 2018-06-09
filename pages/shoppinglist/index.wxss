@@ -1,27 +1,48 @@
 /**index.wxss**/
-.userinfo {
+.container {
+  height: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: space-between;
+  padding: 50rpx 0;
+  box-sizing: border-box;
+}
+view.aabb{
+  margin:5%;
+  text-align:justify;
+}
+text.beizhu2{
+  font-size:18px;
+  color:#666666;
+  line-height: 30px;
+}
+view.xianzhi33{
+  margin:5%;
+  text-align:justify;
+}
+text.xianzhi_title2{
+  font-size:18px;
+  color:#666666;
+  line-height: 30px;
 }
 
-.userinfo-avatar {
-  width: 128rpx;
-  height: 128rpx;
-  margin: 20rpx;
-  border-radius: 50%;
-}
-
-.userinfo-nickname {
-  color: #aaa;
-}
-
-.usermotto {
-  margin-top: 200px;
-}
-
+.btn{ 
+ width:300px; 
+ border-radius: 8px; 
+ margin:20px auto; 
+ padding-top:2px; 
+ font-size:14px; 
+ background-color:#fda257; 
+ border:1px solid #fd8c30;
+ color:white; 
+ overflow:hidden; 
+ height:40px;
+ background: linear-gradient(to bottom left,orangered , orange); 
+ box-shadow: 6px 6px 6px #cccccc;
+} 
 /** wxss **/
 /** 添加自定义button点击态样式类**/
 .button-hover {
-  background-color: orange;
+  background-color: #fb7000;
 }

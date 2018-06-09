@@ -5,7 +5,7 @@ const app = getApp()
 var types = ['default', 'primary', 'warn']
 
 var pageObject = {
-  settemp2:function(){
+  settemp1:function(){
     wx.navigateTo({
       url: '../shoppinglist/index'
     })
