@@ -8,3 +8,8 @@
     </block>
   </view>
 </view>
+
+
+  <view class="flex-container">
+    <text class="flex-item">闲置须知</text>
+  </view>
