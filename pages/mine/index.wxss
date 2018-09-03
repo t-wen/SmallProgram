@@ -40,7 +40,7 @@ view.container{
     margin-left: 22px; 
 }
 
-text.flex-item {
+text.biaoti {
     width: 310px;
     height: 45px;
     margin: 10px;
