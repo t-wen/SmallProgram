@@ -34,7 +34,7 @@ view.container {
   display: flex;
   flex-direction: column;
   width: 330px;
-  height: 800px;
+  height: 900px;
   background-color: white;
   box-shadow: 1px 1px 2px 2px #eadbc9;
   margin-top: -20px;
@@ -47,5 +47,28 @@ text {
 }
 
 text.biaoti {
+  font-size:30px;
   font-family: "Times New Roman", Times, serif;
+  margin: auto;
+}
+
+text.lianxi {
+  font-size:11px;
+  margin: auto;
+  margin-top:15px;
+	margin-left:5px;
+}
+
+text.neirongbiaoti {
+  font-size:20px;
+  margin: auto;
+  margin-top:15px;
+	margin-left:5px;
+}
+
+text.neirong {
+  font-size:14px;
+  margin: auto;
+  margin-top:1px;
+	margin-left:5px;
 }

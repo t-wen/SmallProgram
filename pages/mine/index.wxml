@@ -12,17 +12,27 @@
 
 <view class="flex-container">
   <text class="biaoti">关于我</text>
-  <text class="lianxi">温怡君    136-5093-1750      missvansstudio@gmail.com       广东普宁        </text>
+  <text class="lianxi">
+    <text>温怡君</text>
+    <text>136-5093-1750</text>
+    <text>missvansstudio@gmail.com</text>
+    <text>广东普宁</text>                
+  </text>
+  
   <text class="neirongbiaoti">概况</text>
-  <text class="neirong">从事室内设计两年多，目前是一位室内设计师，因个人原因，现决定全职从事IT行业。
-    希望可以找到一个合适的环境，志同道合的人一块进步。</text>
+  <text class="neirong">从事室内设计两年多，目前是一位室内设计师，因个人原因，现决定全职从事IT行业。希望可以找到一个合适的环境，志同道合的人一块进步。</text>
+
   <text class="neirongbiaoti">经历</text>
-  <text class="neirong">广州市，广州华浔品味装饰集团   室内设计师 — 2017-现在
-    负责室内空间设计图设计，家装设计及采购；同时负责项目整体的进度控制和验收。</text>
+  <text class="neirong">广州华浔品味装饰集团   室内设计师 — 2017-现在
+
+  负责室内空间设计图设计，家装设计及采购；同时负责项目整体的进度控制和验收。</text>
+  
   <text class="neirongbiaoti">教育</text>
   <text class="neirong">大学专科</text>
+  
   <text class="neirongbiaoti">技能</text>
-  <text class="neirong">了解微信小程序的开发和管理；掌握HTML，CSS，JavaScript；对Vue、jQuery、React     等框架有一定了解；掌握Mysql数据库的使用，对node.js有一定了解；对python等脚本语言和面向对象编程有一定了       解；英语四级。</text>
+  <text class="neirong">了解微信小程序的开发和管理；掌握HTML，CSS，JavaScript；对Vue、jQuery、React     等框架有一定了解；掌握Mysql数据库的使用，对node.js有一定了解；对python等脚本语言和面向对象编程有一定了解；英语四级。</text>
+  
   <text class="neirongbiaoti">项目和作品</text>
   <text class="neirong">
     个人微信小程序：Tracy闲置
