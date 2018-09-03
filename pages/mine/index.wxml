@@ -22,5 +22,10 @@
     <text class="neirongbiaoti">教育</text>
     <text class="neirong">大学专科</text>
     <text class="neirongbiaoti">技能</text>
-    <text class="neirong">了解微信小程序的开发和管理；掌握HTML，CSS，JavaScript；对Vue、jQuery、React等框架有一定了解；对node.js有一定了解；对python等脚本语言和面向对象编程有一定了解；英语四级。</text>
+    <text class="neirong">了解微信小程序的开发和管理；掌握HTML，CSS，JavaScript；对Vue、jQuery、React     等框架有一定了解；掌握Mysql数据库的使用，对node.js有一定了解；对python等脚本语言和面向对象编程有一定了       解；英语四级。</text>
+    <text class="neirongbiaoti">项目和作品</text>
+    <text class="neirong">
+    个人微信小程序：Tracy闲置
+    Github: https://github.com/t-wen
+    CSDN: https://blog.csdn.net/weixin_42558631</text>
   </view>
