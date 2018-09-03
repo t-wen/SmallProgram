@@ -1,4 +1,5 @@
 /**index.wxss**/
+
 .userinfo {
   display: flex;
   flex-direction: column;
@@ -15,33 +16,36 @@
 }
 
 .userinfo-nickname {
-  color: #ffffff;
+  color: #fff;
   font-size: 14px;
-  margin-bottom: 50px; 
+  margin-bottom: 50px;
 }
 
 .usermotto {
   margin-top: 200px;
 }
 
-view.container{
+view.container {
   background-color: #fb7000;
 }
 
 .flex-container {
-    display: -webkit-flex;
-    display: flex;
-    flex-direction: column;
-    width: 330px;
-    height: 500px;
-    background-color: white;
-    box-shadow: 1px 1px 2px 2px #eadbc9;
-    margin-top: -20px;
-    margin-bottom: 10px;
-    margin-left: 22px; 
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: column;
+  width: 330px;
+  height: 800px;
+  background-color: white;
+  box-shadow: 1px 1px 2px 2px #eadbc9;
+  margin-top: -20px;
+  margin-bottom: 10px;
+  margin-left: 22px;
+}
 
+text {
+  word-break: break-all;
 }
 
 text.biaoti {
-  font-family: "Times New Roman",Times,serif;
+  font-family: "Times New Roman", Times, serif;
 }
