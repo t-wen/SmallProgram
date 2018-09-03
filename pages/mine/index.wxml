@@ -11,5 +11,14 @@
 
 
   <view class="flex-container">
-    <text class="flex-item">闲置须知</text>
+    <text class="biaoti">关于我</text>
+    <text class="lianxi">温怡君    136-5093-1750      missvansstudio@gmail.com       广东普宁</text>
+    <text class="neirongbiaoti">概况</text>
+    <text class="neirong">从事室内设计两年多，目前是一位室内设计师，因个人原因，现决定全职从事IT行业。
+希望可以找到一个合适的环境，志同道合的人一块进步。
+</text>
+    <text class="neirongbiaoti">概况</text>
+    <text class="neirong">从事室内设计两年多，目前是一位室内设计师，因个人原因，现决定全职从事IT行业。
+希望可以找到一个合适的环境，志同道合的人一块进步。
+</text>
   </view>
