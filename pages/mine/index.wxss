@@ -42,8 +42,7 @@ view.container{
 
 text.biaoti {
   height: 100%;
-  display: flex;
-  flex-direction: column;
+  flex-direction: row-reverse;
   align-items: center;
   justify-content: space-between;
   padding: 2rpx 0;
