@@ -1,42 +1,40 @@
 {
-  "pages":[
-    "pages/index/index",
+  "pages": [
     "pages/mine/index",
+    "pages/index/index",
     "pages/logs/logs",
     "pages/shoppinglist/index",
     "pages/xianzhixuzhi/index"
   ],
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fb7000",
     "navigationBarTitleText": "Tracy闲置",
-    "navigationBarTextStyle":"white",
-    "backgroundColor":"#ffffff",
-    "enablePullDownRefresh":false,
-    "navigationStyle":"default",
-    "backgroundColorTop":"#ffffff",
-    "backgroundColorBottom":"#ffffff",
-    "onReachBottomDistance":50
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#ffffff",
+    "enablePullDownRefresh": false,
+    "navigationStyle": "default",
+    "backgroundColorTop": "#ffffff",
+    "backgroundColorBottom": "#ffffff",
+    "onReachBottomDistance": 50
   },
-  "tabBar":{
-    "list":[
+  "tabBar": {
+    "list": [
       {
-        "pagePath":"pages/index/index",
-        "text":"首页",
-        
-        "selectedlconPath":""
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "selectedlconPath": ""
       },
       {
-        "pagePath":"pages/mine/index",
+        "pagePath": "pages/mine/index",
         "text": "我的",
-        
         "selectedlconPath": ""
       }
     ],
-    "color":"#cccccc",
-    "selectedColor":"#fb7000",
-    "backgroundColor":"#ffffff",
-    "borderStyle":"",
-    "position":""
+    "color": "#cccccc",
+    "selectedColor": "#fb7000",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "",
+    "position": ""
   }
 }

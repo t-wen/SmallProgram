@@ -34,41 +34,70 @@ view.container {
   display: flex;
   flex-direction: column;
   width: 330px;
-  height: 900px;
+  height: 750px;
   background-color: white;
   box-shadow: 1px 1px 2px 2px #eadbc9;
   margin-top: -20px;
   margin-bottom: 10px;
-  margin-left: 22px;
+  margin-left: calc(50% - 165px);
 }
 
-text {
-  word-break: break-all;
-}
-
-text.biaoti {
-  font-size:30px;
+.title {
+  font-size: 30px;
   font-family: "Times New Roman", Times, serif;
-  margin: auto;
+  margin-top: 15px;
+  margin-left: calc(50% - 60px);
 }
 
-text.lianxi {
-  font-size:11px;
-  margin: auto;
-  margin-top:15px;
-	margin-left:5px;
+.personal-info {
+  display: flex;
+  flex-wrap: wrap;
 }
 
-text.neirongbiaoti {
-  font-size:20px;
-  margin: auto;
-  margin-top:15px;
-	margin-left:5px;
+.personal-info-label {
+  display: flex;
+  flex-direction: row;
+  border-radius: 8px;
+  padding: 4px;
+  border: 1px solid #ccc;
+  box-shadow: 1px 1px 2px 2px #eadbc9;
+  margin-top: 15px;
+  margin-left: 5px;
+  margin-right: 5px;
+  justify-content: space-between;
+  flex: auto;
 }
 
-text.neirong {
-  font-size:14px;
+.labeltext {
   margin: auto;
-  margin-top:1px;
-	margin-left:5px;
+  font-size: 12px;
+  margin-left: 5px;
 }
+
+.context {
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+}
+
+.context_h1 {
+  font-size: 20px;
+  margin-left: 5px;
+  margin-top: 10px;
+}
+
+.context_h2 {
+  font-size: 14px;
+  margin-left: 5px;
+  word-break: break-all;
+  margin-top: 5px;
+}
+
+.context_h3 {
+  font-style: italic;
+  font-size: 12px;
+  margin-left: 5px;
+  word-break: break-all;
+  margin-top: 5px;
+}
+

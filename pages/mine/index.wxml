@@ -11,31 +11,49 @@
 
 
 <view class="flex-container">
-  <text class="biaoti">关于我</text>
-  <text class="lianxi">
-    <text>温怡君</text>
-    <text>136-5093-1750</text>
-    <text>missvansstudio@gmail.com</text>
-    <text>广东普宁</text>                
-  </text>
-  
-  <text class="neirongbiaoti">概况</text>
-  <text class="neirong">从事室内设计两年多，目前是一位室内设计师，因个人原因，现决定全职从事IT行业。希望可以找到一个合适的环境，志同道合的人一块进步。</text>
+  <view class="title">
+    <text class="biaoti">About me</text>
+  </view>
 
-  <text class="neirongbiaoti">经历</text>
-  <text class="neirong">广州华浔品味装饰集团   室内设计师 — 2017-现在
+  <view class="personal-info">
+    <view class="personal-info-label">
+      <image class="lableimg" style="width: 25px; height: 25px; backgrounp-color: #eeeeee;" mode="icon" src="../../PrimaryDraft/female.png"></image>
+      <text class="labeltext">温怡君</text>
+    </view>
 
-  负责室内空间设计图设计，家装设计及采购；同时负责项目整体的进度控制和验收。</text>
-  
-  <text class="neirongbiaoti">教育</text>
-  <text class="neirong">大学专科</text>
-  
-  <text class="neirongbiaoti">技能</text>
-  <text class="neirong">了解微信小程序的开发和管理；掌握HTML，CSS，JavaScript；对Vue、jQuery、React     等框架有一定了解；掌握Mysql数据库的使用，对node.js有一定了解；对python等脚本语言和面向对象编程有一定了解；英语四级。</text>
-  
-  <text class="neirongbiaoti">项目和作品</text>
-  <text class="neirong">
-    个人微信小程序：Tracy闲置
-    Github: https://github.com/t-wen
-    CSDN: https://blog.csdn.net/weixin_42558631</text>
+    <view class="personal-info-label">
+      <image class="lableimg" style="width: 25px; height: 25px; backgrounp-color: #eeeeee;" mode="icon" src="../../PrimaryDraft/phone.png"></image>
+      <text class="labeltext">136-5093-1750</text>
+    </view>
+
+    <view class="personal-info-label">
+      <image class="lableimg" style="width: 25px; height: 25px; backgrounp-color: #eeeeee;" mode="icon" src="../../PrimaryDraft/email.png"></image>
+      <text class="labeltext">missvansstudio@gmail.com</text>
+    </view>
+
+    <view class="personal-info-label">
+      <image class="lableimg" style="width: 25px; height: 25px; backgrounp-color: #eeeeee;" mode="icon" src="../../PrimaryDraft/home.png"></image>
+      <text class="labeltext">广东普宁</text>
+    </view>
+  </view>
+
+  <view class="context">
+    <text class="context_h1">概况</text>
+    <text class="context_h2">从事室内设计两年多，目前是一位室内设计师，因个人原因，现决定全职从事IT行业。希望可以找到一个合适的环境，志同道合的人一块进步。</text>
+
+    <text class="context_h1">经历</text>
+    <text class="context_h3">广州华浔品味装饰集团  室内设计师 — 2017-现在</text>
+    <text class="context_h2">负责室内空间设计图设计，家装设计及采购；同时负责项目整体的进度控制和验收。</text>
+
+    <text class="context_h1">教育</text>
+    <text class="context_h2">大学专科</text>
+
+    <text class="context_h1">技能</text>
+    <text class="context_h2">了解微信小程序的开发和管理；掌握HTML，CSS，JavaScript；对Vue、jQuery、React     等框架有一定了解；掌握Mysql数据库的使用，对node.js有一定了解；对python等脚本语言和面向对象编程有一定了解；英语四级。</text>
+
+    <text class="context_h1">项目和作品</text>
+    <text class="context_h2">个人微信小程序：Tracy闲置</text>
+    <text class="context_h2">Github: https://github.com/t-wen</text>
+    <text class="context_h2">CSDN: https://blog.csdn.net/weixin_42558631</text>
+  </view>
 </view>
